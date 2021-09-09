@@ -1,6 +1,6 @@
-# express-typescript-server-template
+# express-server-typescript-template
 
-A simple express server template built with typescript.
+A simple express.js server template built with typescript.
 
 # Getting started
 
