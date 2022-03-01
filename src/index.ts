@@ -5,7 +5,7 @@ const port = 1337;
 
 const app = express();
 
-app.get('/', (req, res) => {
+app.get('/', (_, res) => {
     res.send('hello world');
 });
 
